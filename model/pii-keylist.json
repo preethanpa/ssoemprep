@@ -1,0 +1,737 @@
+{
+    "Personal Info": {
+        "personalInfoSurName": {
+            "keys": [
+                "Surname",
+                "Last name",
+                "Lastname",
+                "  Last Name",
+                "NAME ",
+                "Name ",
+                " Name ",
+                "Name"
+            ],
+            "sampleValues": [
+                "Kumar"
+            ]
+        },
+        "personalInfoFirstName": {
+            "keys": [
+                "First Name",
+                "First name",
+                "First Name ",
+                "NAME ",
+                "Name ",
+                " Name ",
+                "Name"
+            ],
+            "sampleValues": [
+                "Pawan"
+            ]
+        },
+        "personalInfoLastName": {
+            "keys": [
+                "Last Name",
+                "Last name",
+                "Lastname",
+                "LastName",
+                "Name ",
+                " Name ",
+                "Name"
+            ],
+            "sampleValues": [
+                "MS"
+            ]
+        },
+        "personalInfoNationality": {
+            "keys": [
+                "Nationality",
+                "Citizenship",
+                "Citizen of",
+                "Country of birth"
+            ],
+            "sampleValues": [
+                "Indian"
+            ]
+        },
+        "personalInfoGender": {
+            "keys": [
+                "Gender",
+                "Sex"
+            ],
+            "sampleValues": [
+                "M"
+            ]
+        },
+        "personalInfoDoa": {
+            "keys": [
+                "DOA",
+                "What is DOA?"
+            ],
+            "sampleValues": [
+                "01-01-2021"
+            ]
+        },
+        "personalInfoDob": {
+            "keys": [
+                "Date of Birth",
+                "D.O.B.",
+                "D. O. B.",
+                "D. O. B. ",
+                "D. O. B ",
+                "D.O.B",
+                "Date of birth",
+                "Date of birth ",
+                "DATE OF BIRTH"
+            ],
+            "sampleValues": [
+                "01-01-1999"
+            ]
+        },
+        "personalInfoAddress": {
+            "keys": [
+                "Address",
+                "Full address",
+                "address",
+                "Address Line 1",
+                "Address Line 2",
+                "Vill",
+                "ADDRESS ",
+                " hometown "
+            ],
+            "sampleValues": [
+                "address1"
+            ]
+        },
+        "personalInfoCity": {
+            "keys": [
+                "City",
+                "Address city",
+                "C ity"
+            ],
+            "sampleValues": [
+                "Cochin"
+            ]
+        },
+        "personalInfoCountry": {
+            "keys": [
+                "Country",
+                "Address country"
+            ],
+            "sampleValues": [
+                "India"
+            ]
+        },
+        "personalInfoEmailId": {
+            "keys": [
+                "E Mail",
+                "E MAIL",
+                "EMail",
+                "email",
+                "E-Mail",
+                "E-MAIL",
+                "E Mail",
+                "E Mail ",
+                "E-MAIL ID",
+                "E-mail "
+            ],
+            "sampleValues": [
+                "temp@temp.com"
+            ]
+        },
+        "personalInfoCountryCode": {
+            "keys": [
+                "Country code",
+                "Country Code"
+            ],
+            "sampleValues": [
+                "+91"
+            ]
+        },
+        "personalInfoMobileNo": {
+            "keys": [
+                "Mobile number",
+                "Mobile no",
+                "Phone no.",
+                "Phone No.",
+                "Cell no.",
+                "Cell phone number",
+                "Cell phone no.",
+                "Contact No.",
+                "Contact number",
+                " Mobile",
+                "Mob no",
+                "MOB.",
+                "CONTACT NO."
+            ],
+            "sampleValues": [
+                "1234567890"
+            ]
+        },
+        "personalInfoAlternateNo": {
+            "keys": [
+                "Alternate No.",
+                "Alternate no.",
+                "Alternative No.",
+                "Alternative number",
+                "Mobile number",
+                "Mobile no",
+                "Mob no",
+                "Phone no.",
+                "Phone No.",
+                "Cell no.",
+                "Cell phone number",
+                "Cell phone no.",
+                "Contact No",
+                "Contact number"
+            ],
+            "sampleValues": [
+                "0123456789"
+            ]
+        },
+        "personalInfoRank": {
+            "keys": [
+                "Current Rank",
+                "Position applied for",
+                "Post applied for",
+                "RANK APPLIED FOR",
+                "Rank applied for ",
+                "Application Rank"
+            ],
+            "sampleValues": [
+                "Midshipman"
+            ]
+        },
+        "personalInfoAboutMe": {
+            "keys": [
+                "About me",
+                "About ",
+                "Personal details"
+            ],
+            "sampleValues": [
+                "about me.."
+            ]
+        }
+    },
+    "Education": {
+        "educationDocNo": {
+            "keys": [
+                "Doc No.",
+                "Document No",
+                "Document Id.",
+                "Document number",
+                " Doc No.",
+                " Scroll No.",
+                "      COC",
+                "      CDC",
+                "      SID",
+                "     Continuous Discharge Certificate",
+                "Certificate number",
+                "Certificate No",
+                "Certificate of Proficiency"
+            ],
+            "sampleValues": [
+                "5020012"
+            ]
+        },
+        "eductionCourse": {
+            "keys": [
+                "Course taken",
+                "Course name",
+                "Course",
+                "Diploma name",
+                "Certificate",
+                "Degree name",
+                "Degree",
+                "Courses done",
+                "Personal Survival Techniques",
+                "Elementary First Aid",
+                "Seafarer with Designated Security Duties",
+                "Security Awareness"
+            ],
+            "sampleValues": [
+                "Naval Sailor"
+            ]
+        },
+        "educationPerformance": {
+            "keys": [
+                "Percentage",
+                "GPA",
+                "G. P. A.",
+                "Rank"
+            ],
+            "sampleValues": []
+        },
+        "educationInstitute": {
+            "keys": [
+                "Institute",
+                "Institution",
+                "College",
+                "University",
+                "University/",
+                "University/ Board",
+                "School",
+                "University / Board"
+            ],
+            "sampleValues": [
+                "National Institute of Hydrography"
+            ]
+        },
+        "educationCertificateIssuedPlace": {
+            "keys": [
+                "Place of issue",
+                "Issued at",
+                "Place"
+            ],
+            "sampleValues": [
+                "Goa"
+            ]
+        },
+        "educationCertificationIssuedCountry": {
+            "keys": [
+                "Country of issue",
+                "Issued Country",
+                "Country"
+            ],
+            "sampleValues": [
+                "India"
+            ]
+        },
+        "educationCertificateIssuedDt": {
+            "keys": [
+                "Issued date",
+                "Issued on",
+                "Valid from",
+                "From",
+                "Date of Issue"
+            ],
+            "sampleValues": [
+                "10-01-2011"
+            ]
+        },
+        "educationCertificateExpiryDt": {
+            "keys": [
+                "Expiry date",
+                "Expires on",
+                "Valid upto",
+                "Upto",
+                "Date of Expiry"
+            ],
+            "sampleValues": [
+                "01-01-9999"
+            ]
+        }
+    },
+    "Licences": {
+        "licenceDocNo": {
+            "keys": [
+                "Doc No.",
+                "Document No",
+                "Document Id.",
+                "Document number",
+                " Doc No.",
+                " Scroll No.",
+                "Number"
+            ],
+            "sampleValues": [
+                "780544"
+            ]
+        },
+        "licenceIssuedPlace": {
+            "keys": [
+                "Issued at",
+                "Place of issue",
+                "Place",
+                "Issuing Authority",
+                "Issuing Country"
+            ],
+            "sampleValues": [
+                "Cochin"
+            ]
+        },
+        "licenceIssuedCountry": {
+            "keys": [
+                "Country of issue",
+                "Issued Country",
+                "Country",
+                "Issuing Authority"
+            ],
+            "sampleValues": [
+                "India"
+            ]
+        },
+        "licenceIssuedDt": {
+            "keys": [
+                "Issued date",
+                "Issued on",
+                "Valid from",
+                "From",
+                "Date of issue"
+            ],
+            "sampleValues": [
+                "10-01-2011"
+            ]
+        },
+        "licenceExpiryDt": {
+            "keys": [
+                "Expiry date",
+                "Expires on",
+                "Valid upto",
+                "Upto",
+                "Date of expiry",
+                "Valid till",
+                "Validity"
+            ],
+            "sampleValues": [
+                "10-01-2031"
+            ]
+        },
+        "document": {
+            "keys": [
+                "Document type",
+                "Document",
+                "Document name",
+                "Licence name",
+                "Licence",
+                "License type",
+                "CoC/Cop & Endorsements",
+                "CoC/Cop",
+                "Endorsements"
+            ],
+            "sampleValues": [
+                "driving licence"
+            ]
+        }
+    },
+    "Experience Info": {
+        "experienceInfoVesselName": {
+            "keys": [
+                "Vessel name",
+                "Vessel ",
+                "Ship name",
+                "Name of Ship",
+                "Company/Vessel",
+                "Company / Vessel",
+                "Company Name",
+                "RPSL/Company",
+                "Vessel",
+                " Name of Vessel"
+            ],
+            "sampleValues": [
+                "BW Cedar"
+            ]
+        },
+        "experienceInfoImo": {
+            "keys": [
+                "What is IMO?"
+            ],
+            "sampleValues": [
+                "987654"
+            ]
+        },
+        "experienceInfoRank": {
+            "keys": [
+                "Rank",
+                "Position held",
+                "Position"
+            ],
+            "sampleValues": [
+                "Senior Officer"
+            ]
+        },
+        "experieneInfoFlag": {
+            "keys": [
+                "Flag",
+                "Vessel flag"
+            ],
+            "sampleValues": [
+                "India"
+            ]
+        },
+        "experienceInfoEmpId": {
+            "keys": [
+                "Employee ID.",
+                "Employee id.",
+                "Employee id",
+                "EmpID",
+                "Emp ID",
+                "Emp id"
+            ],
+            "sampleValues": [
+                "EMP98203"
+            ]
+        },
+        "experienceInfoEmployer": {
+            "keys": [
+                "Employer",
+                "Company ",
+                "Employed by",
+                "Name of company"
+            ],
+            "sampleValues": [
+                "BM Cedar Cargo"
+            ]
+        },
+        "experienceInfoVesselType": {
+            "keys": [
+                "Vessel type ",
+                "Ship type ",
+                "Vessel type",
+                "Ship type",
+                "Type",
+                "Type of Ship",
+                "Oil/Chemical Tanker",
+                "Oil Products Tanker",
+                "LPG Vessel",
+                "Oil Tanker",
+                "Ch/Oil Tanker",
+                "General Cargo"
+            ],
+            "sampleValues": [
+                "LPG Vessel"
+            ]
+        },
+        "experienceInfoVesselSubType": {
+            "keys": [
+                "Subtype",
+                "Vessel subtype",
+                "Vessel sub type",
+                "Sub type",
+                "Oil/Chemical Tanker",
+                "Oil Products Tanker",
+                "LPG Vessel",
+                "Ch/Oil Tanker",
+                "Chemical Tanker",
+                "GRT"
+            ],
+            "sampleValues": [
+                "General Cargo"
+            ]
+        },
+        "experienceInfoFromDt": {
+            "keys": [
+                "From ",
+                "From",
+                "From date",
+                "From Date",
+                "Sign on",
+                "Sign On"
+            ],
+            "sampleValues": [
+                "01-01-2012"
+            ]
+        },
+        "experienceInfoToDt": {
+            "keys": [
+                "To ",
+                "To",
+                "To date",
+                "To Date",
+                "Sign Off",
+                "Sign Out"
+            ],
+            "sampleValues": [
+                "01-01-2015"
+            ]
+        },
+        "experiencInfoPlace": {
+            "keys": [
+                "Ship/Place",
+                "Place of work",
+                "Employer's Headquarters",
+                "Place"
+            ],
+            "sampleValues": [
+                "Kuwait"
+            ]
+        },
+        "experienceInfoRemarks": {
+            "keys": [
+                "Remarks",
+                "Remarks ",
+                "Other information",
+                " Responsibility "
+            ],
+            "sampleValues": [
+                "my remarks"
+            ]
+        }
+    },
+    "Travel Docs": {
+        "travelDocsDocNo": {
+            "keys": [
+                "Doc No.",
+                "Document Id.",
+                "Document number",
+                "Doc number",
+                "Document No",
+                "Document Type",
+                "CDC",
+                "C.D.C.",
+                "C.D.C",
+                "INDOS NO.",
+                " Number "
+            ],
+            "sampleValues": [
+                "11-654107"
+            ]
+        },
+        "travelDocIssuedPlace": {
+            "keys": [
+                "Issued at",
+                "Place of issue",
+                "Issued Place",
+                "Issuing authority",
+                "Issued at"
+            ],
+            "sampleValues": [
+                "Cochin"
+            ]
+        },
+        "travelDocsIssuedCountry": {
+            "keys": [
+                "Country of issue",
+                "Issued Country",
+                "Country",
+                "Issuing authority",
+                " Nationality "
+            ],
+            "sampleValues": [
+                "India"
+            ]
+        },
+        "travelDocsIssuedDt": {
+            "keys": [
+                "Issued date",
+                "Issued on",
+                "Valid from",
+                "From",
+                "Date of issue"
+            ],
+            "sampleValues": [
+                "10-01-2011"
+            ]
+        },
+        "travelDocsExpiryDt": {
+            "keys": [
+                "Expiry date",
+                "Expires on",
+                "Valid upto",
+                "Upto",
+                "Date of expiry",
+                "Valid till",
+                "Validity"
+            ],
+            "sampleValues": [
+                "10-01-2031"
+            ]
+        },
+        "travelDocsDocument": {
+            "keys": [
+                "Document type",
+                "Document",
+                "Document name",
+                "Name of document",
+                "Passport",
+                "Document",
+                " Travel Document",
+                "Seamans's Books",
+                "Seaman books",
+                " Travel Document "
+            ],
+            "sampleValues": [
+                "Passport"
+            ]
+        }
+    },
+    "Misc. Docs": {
+        "miscDocsDocNo": {
+            "keys": [
+                "Doc No.",
+                "Document Id.",
+                "Document number",
+                "Doc number"
+            ],
+            "sampleValues": [
+                "987650"
+            ]
+        },
+        "miscDocIssuedPlace": {
+            "keys": [
+                "Issued at",
+                "Place of issue",
+                "Place"
+            ],
+            "sampleValues": [
+                "Cochin"
+            ]
+        },
+        "miscDocsIssuedCountry": {
+            "keys": [
+                "Country of issue",
+                "Issued Country",
+                "Country"
+            ],
+            "sampleValues": [
+                "India"
+            ]
+        },
+        "miscDocsIssuedDt": {
+            "keys": [
+                "Issued date",
+                "Issued on",
+                "Valid from",
+                "From"
+            ],
+            "sampleValues": [
+                "10-01-2011"
+            ]
+        },
+        "miscDocsExpiryDt": {
+            "keys": [
+                "Expiry date",
+                "Expires on",
+                "Valid upto",
+                "Upto"
+            ],
+            "sampleValues": [
+                "10-01-2031"
+            ]
+        },
+        "miscDocsDocument": {
+            "keys": [
+                "Document type",
+                "Document",
+                "Document name",
+                "Licence name",
+                "Licence",
+                "License type",
+                "Miscellaneous documents",
+                "Other documents"
+            ],
+            "sampleValues": [
+                "misc doc"
+            ]
+        }
+    },
+    "Job Preferences": {
+        "familyCarriage": {
+            "keys": [
+                "Family Carriage",
+                "Oil Tankers",
+                "General Cargo"
+            ],
+            "sampleValues": [
+                "Family Carriage"
+            ]
+        },
+        "gym": {
+            "keys": [
+                "Gym"
+            ],
+            "sampleValues": [
+                "Gym"
+            ]
+        }
+    }
+}
