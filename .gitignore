@@ -1,1 +1,4 @@
+.history
 logs/
+.vscode
+__pycache__
